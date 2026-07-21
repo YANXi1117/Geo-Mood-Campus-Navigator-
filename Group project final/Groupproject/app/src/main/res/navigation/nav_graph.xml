@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/campusMapFragment">
+
+    <fragment
+        android:id="@+id/campusMapFragment"
+        android:name="com.example.groupproject.ui.map.CampusMapFragment"
+        android:label="Campus Map">
+        <action
+            android:id="@+id/action_map_to_detail"
+            app:destination="@id/buildingDetailFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/buildingDetailFragment"
+        android:name="com.example.groupproject.ui.detail.BuildingDetailFragment"
+        android:label="Building Detail" />
+
+</navigation>
