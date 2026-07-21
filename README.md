@@ -189,7 +189,7 @@ Groupproject/
 
 | 校园地图 | 评论功能 |
 |---------|---------|
-| ![地图](map_view.png) | ![评论](comment.png) |
+| ![地图](./map_view.png) | ![评论](./comment.png) |
 
 
 
