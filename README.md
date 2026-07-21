@@ -180,8 +180,8 @@ Groupproject/
 
 > *（请将应用截图放置于此目录下，例如 `screenshots/map_view.png`）*
 
-| 校园地图 | 建筑物详情 | 评论功能 |
-|---------|-----------|---------|
+| 校园地图  | 评论功能 |
+|---------|---------|
 | ![地图](screenshots/map_view.png) | ![详情](screenshots/detail.png) | ![评论](screenshots/comment.png) |
 
 ---
