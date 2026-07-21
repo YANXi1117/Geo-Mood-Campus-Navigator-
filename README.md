@@ -230,7 +230,7 @@ Groupproject/
 
 ## 👥 开发团队
 
-- **Group Project** — 课程小组项目作品
+- **LSGI541 Group Project Group2** — 课程小组项目作品
 
 ---
 
