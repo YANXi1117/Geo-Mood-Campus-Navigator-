@@ -181,6 +181,19 @@ Groupproject/
 演示视频.mp4
 
 
+---
+
+## 📸 截图
+
+> *（请将应用截图放置于此目录下，例如 `screenshots/map_view.png`）*
+
+| 校园地图 | 评论功能 |
+|---------|---------|
+| ![地图](screenshots/map_view.png) | ![评论](screenshots/comment.png) |
+
+
+
+
 
 ---
 
