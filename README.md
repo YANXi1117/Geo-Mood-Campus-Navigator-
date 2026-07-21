@@ -178,15 +178,15 @@ Groupproject/
 
 ## 📸 演示视频
 
-演示视频.mp4
+- 演示视频.mp4
 
 
 ---
 
 ## 📸 截图
 
-地图 map_view.png
-评论 comment.png
+- 地图 map_view.png
+- 评论 comment.png
 
 
 ---
